@@ -117,13 +117,6 @@ def FrozenLake(Custom_Map, Episodes):
   plt.plot(sum_rewards)
   plt.savefig("Frozen_lake8x8.png")
 
-  #Save Q table
-  Saved_Table = open("Frozen_lake8x8.pkl", "wb")
-  pickle.dump(q, Saved_Table)
-  Saved_Table.close()
-
-
-
 #Run Main Function
 if __name__ == "__main__":
   FrozenLake(maps["5x5"], 15000) # Load Map "5x5" and Do 15000 iterations(Episodes)
