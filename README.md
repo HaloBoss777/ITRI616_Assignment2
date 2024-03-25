@@ -36,6 +36,15 @@
         <p>
           The agent's interactions with the environment, along with its rewards, are graphed to illustrate the learning progress over time.
         </p>
+        <h2>Key parameters used for customization</h2>
+        <ul>
+          <li>map_objects: maps["5x5"] the "5x5" can be any map in the maps.py file (You can add your own)</li>
+          <li>Learning_rate: you can change the Learning_rate but must be --> (0 < α <= 1)</li>
+          <li>discount_factor: Usualy 1 but you can change it </li>
+          <li>epsilon_decay: Usualy a small value but you can change it</li>
+          <li>is_slippery: A boolean value that creates randomness in the environment</li>
+          <li>render_mode: Set value to 'human' for GUI otherwise keep at None for faster training</li>
+        </ul>
     </main>
     <footer>
         <p>&copy; 2024 Dewald Oosthuizen 38336529</p>
