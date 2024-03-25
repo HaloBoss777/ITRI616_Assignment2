@@ -19,6 +19,7 @@
         <p>
           The goal is for the agent to learn a policy to move from the start to the goal, stepping only on the frozen blocks while avoiding the holes. The floor might be slippery, which means the agent might not always move in the intended direction.
         </p>
+        <p>To execute the scripts, simply open them in your preferred Integrated Development Environment (IDE) and click the 'Run' button. There are no additional setup steps required. However, please note that the hyperparameter version generates a large number of images.</p>
         <p>
           The maps.py file contains various grid sizes for the environment, ranging from 4x4 to 12x12, with increasing complexity. For example, a 4x4 grid is represented as follows:
         </p>
