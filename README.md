@@ -31,7 +31,7 @@
           "SFFH"
         </p>
         <p>
-          The Python scripts use a Q-learning algorithm to train a agent on these maps. It defines a Q-table to keep track of the value of taking a certain action in a particular state. another Approuch script "Assignmnet2_38336529_FrozenLake_Hyper" includes hyperparameters such as learning rate, discount factor, and epsilon decay rate to adjust the balance between exploration (trying out new actions) and exploitation (using known information to maximize the reward). Over time, the agent explores less and relies more on the learned values in the Q-table.
+          The Python scripts use a Q-learning algorithm to train a agent on maps. It defines a Q-table to keep track of the value of taking a certain action in a particular state. another Approuch script "Assignmnet2_38336529_FrozenLake_Hyper" includes hyperparameters such as learning rate, discount factor, and epsilon decay rate to adjust the balance between exploration (trying out new actions) and exploitation (using known information to maximize the reward). Over time, the agent explores less and relies more on the learned values in the Q-table.
         </p>
         <p>
           The agent's interactions with the environment, along with its rewards, are graphed to illustrate the learning progress over time.
@@ -47,7 +47,7 @@
         </ul>
     </main>
     <footer>
-        <p>&copy; 2024 Dewald Oosthuizen 38336529</p>
+        <p>&copy; 2024 Dewald Oosthuizen (38336529)</p>
     </footer>
 </body>
 </html>
