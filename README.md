@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel= "Styles" href="Styles.css">
 </head>
 <body>
     <header>
