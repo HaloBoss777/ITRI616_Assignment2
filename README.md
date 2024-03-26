@@ -7,7 +7,7 @@
         <h1>FrozenLake Gymnasium Environment</h1>
     </header>
     <main>
-        <p>
+        <p style="text-align: center;">
           <img src="FrozenLake.png" alt="FrozenLake">
         </p>
         <p>
