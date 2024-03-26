@@ -8,7 +8,7 @@
     </header>
     <main>
         <p>
-          <img src="\ITRI616_Assignment2\FrozenLake.png" alt="FrozenLake">
+          <img src="FrozenLake.png" alt="FrozenLake">
         </p>
         <p>
           The Frozen Lake problem in the OpenAI Gym environment is a classic reinforcement learning challenge where an agent learns to navigate a grid-like world. The environment is presented as a grid of blocks, where each block can be one of four types:
